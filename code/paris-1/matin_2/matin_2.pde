@@ -9,16 +9,20 @@ void setup() {
   background(255, 255, 255);
   fill(0, 0, 0, 10);
   noStroke();
-  
+
   // for loop
   // commence a une valeur > s'arrete a une autre valeur > augmente d'une certaine maniere
-  for (int maValeur = 0; maValeur < 10000; maValeur = maValeur + 1) {
-    rect(random(0, width), random(0, height), 100, 20);
+  //for (int maValeur = 0; maValeur < 10000; maValeur = maValeur + 1) {
+  //  rect(random(0, width), random(0, height), 100, 2);
+  //}
+
+  for (int maValeur = 0; maValeur < 100000; maValeur = maValeur + 1) {
+
+    rect(random(0, width), random(0, height), 2, 20);
   }
 }
 
 void draw() {
-  monChiffreAleatoire = random(0, width);
 
 
   //if(monChiffreAleatoire > 9.5){
