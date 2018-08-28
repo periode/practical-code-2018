@@ -2,6 +2,9 @@
 // avec position aleatoire
 // une chance sur trois d'etre noir, deux sur trois d'etre blanc
 
+// une couleur au hasard
+// une taille au hasard
+
 void setup() {
   size(1000, 1000);
 
@@ -12,8 +15,10 @@ void setup() {
     println(r);
     if ( r < 1) {
       fill(0, 0, 0); //noir
-    } else {
+    } else if( r < 2) {
       fill(255, 255, 255); //blanc
+    }else{
+     fill(255, 0, 0); 
     }
 
     float pos_x = random(0, 1000);

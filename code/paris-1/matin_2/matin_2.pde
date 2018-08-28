@@ -17,7 +17,6 @@ void setup() {
   //}
 
   for (int maValeur = 0; maValeur < 100000; maValeur = maValeur + 1) {
-
     rect(random(0, width), random(0, height), 2, 20);
   }
 }
