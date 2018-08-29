@@ -20,9 +20,11 @@ void setup() {
 
     if ( r < 1) {
       fill(255, 255, 255);
+      noStroke();
       ellipse(random(0, 1200), random(0, 800), diametre, diametre);
     } else if( r < 2){
       fill(100, 100, 100);
+      stroke(0, 0, 0);
       rect(random(0, 1200), random(0, 800), diametre, diametre);
     }else {
       stroke(random(100, 200), random(100, 200), random(100, 200)); 
