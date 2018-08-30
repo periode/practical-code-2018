@@ -34,7 +34,7 @@ void draw() { //execute everything inside draw EVERY FRAME
   
   fill(250, 100, 100);
   
-  rectangleHeight = rectangleHeight + 1;
+  rectangleHeight = 440;
   rect(200, rectangleHeight, 400, 200);
   rect(210, rectangleHeight, 400, 200);
   rect(220, rectangleHeight, 400, 200);
