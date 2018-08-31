@@ -8,9 +8,9 @@ void setup(){
   size(1000, 1000);
   
   //2. initializing a variable (i.e. giving it a value)
-  theNumber = 7;
+  theNumber = 207;
   
-  println(theNumber);
+  background(theNumber, 134, 251); 
 }
 
 void draw(){
