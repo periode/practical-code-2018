@@ -21,7 +21,7 @@ void draw() { // HAPPENS EVERY FRAME (MOVIE FILM)
   background(theNumber, 134, 251); 
 
   fill(240, 102, 134);
-  rect(theNumber, 100, 300, 300);
+  rect(theNumber, 100, 400, 400);
 
 
 
