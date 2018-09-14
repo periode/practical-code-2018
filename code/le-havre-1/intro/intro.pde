@@ -11,12 +11,12 @@ void setup() { // ONCE
 }
 
 void draw() { // HAPPENS EVERY FRAME
-  background(50, 200, 200);
+  background(250, 210, 100);
 
   fill(0, 0, 0);
   rect(0, 0, 400, 100);
 
-  fill(230, 230, 0);
+  fill(circlePosition, 230, 0);
   stroke(0, 0, 255);
 
   noStroke();
