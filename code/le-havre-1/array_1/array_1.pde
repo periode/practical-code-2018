@@ -1,13 +1,13 @@
 // ARRAY
-float[] mySeriesOfNumbers;
+float[] xPosition;
 
 
 void setup(){
   size(600, 600);
-  mySeriesOfNumbers = new float[10];
+  xPosition = new float[10];
   
   for(int counter = 0; counter < 10; counter += 1){
-    mySeriesOfNumbers[counter] = random(0, width);
+    xPosition[counter] = random(0, width);
   }
   
   
@@ -20,8 +20,8 @@ void setup(){
 
 void draw(){
   for(int counter = 0; counter < 10; counter+=1){
-    rect(mySeriesOfNumbers[counter], 100, 20, 20);
+    rect(xPosition[counter], 100, 20, 20);
     
-    mySeriesOfNumbers[counter] += 1;
+    xPosition[counter] += 1;
   }
 }
