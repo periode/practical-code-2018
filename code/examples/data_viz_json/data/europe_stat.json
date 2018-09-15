@@ -1,0 +1,208 @@
+[{
+	"Question": "Selon vous, quels sont les principaux avantages de l'Union européenne pour ses citoyens ? (vous pouvez cocher trois réponses maximum)",
+	"Nombre de réponses": 1263,
+	"Réponses": [{
+		"Critère": "Plus de paix et de stabilité en Europe",
+		"Nombre de réponses": 708
+	},
+	{
+		"Critère": "Une meilleure garantie des droits et des libertés fondamentales",
+		"Nombre de réponses": 275
+	},
+	{
+		"Critère": "La libre circulation des personnes",
+		"Nombre de réponses": 693
+	},
+	{
+		"Critère": "La libre circulation des biens et des services",
+		"Nombre de réponses": 244
+	},
+	{
+		"Critère": "Une meilleure protection de l’environnement",
+		"Nombre de réponses": 93
+	},
+	{
+		"Critère": "L’Euro",
+		"Nombre de réponses": 374
+	},
+	{
+		"Critère": "Une meilleure protection des consommateurs",
+		"Nombre de réponses": 54
+	},
+	{
+		"Critère": "Une multiplication des échanges dans les domaines de l’éducation et de la culture (par exemple, Erasmus)",
+		"Nombre de réponses": 418
+	},
+	{
+		"Critère": "Une amélioration du niveau de vie des habitants",
+		"Nombre de réponses": 109
+	},
+	{
+		"Critère": "Aucun",
+		"Nombre de réponses": 167
+	},
+	{
+		"Critère": "Autre :",
+		"Nombre de réponses": 75
+	},
+	{
+		"Critère": "Ne sait pas",
+		"Nombre de réponses": 6
+	}]
+},
+{
+	"Question": "Selon vous, dans quels domaines l'action de l'Union européenne n’est pas satisfaisante ? (vous pouvez cocher trois réponses maximum)",
+	"Nombre de réponses": 1263,
+	"Réponses": [{
+		"Critère": "Dans le soutien à la croissance économique et à l’emploi",
+		"Nombre de réponses": 515
+	},
+	{
+		"Critère": "Dans la gestion des réfugiés et des migrations",
+		"Nombre de réponses": 763
+	},
+	{
+		"Critère": "Dans la lutte contre le changement climatique",
+		"Nombre de réponses": 259
+	},
+	{
+		"Critère": "Dans la lutte contre le terrorisme",
+		"Nombre de réponses": 346
+	},
+	{
+		"Critère": "Dans la conduite de la politique agricole",
+		"Nombre de réponses": 262
+	},
+	{
+		"Critère": "Dans la mise en place de règles convergentes en matière sociale",
+		"Nombre de réponses": 627
+	},
+	{
+		"Critère": "Dans le soutien aux entreprises européennes au niveau mondial",
+		"Nombre de réponses": 144
+	},
+	{
+		"Critère": "Dans la stabilisation et la pacification des pays voisins de l’Union européenne, et dans la résolution des conflits internationaux",
+		"Nombre de réponses": 375
+	},
+	{
+		"Critère": "Aucun",
+		"Nombre de réponses": 14
+	},
+	{
+		"Critère": "Autre :",
+		"Nombre de réponses": 200
+	},
+	{
+		"Critère": "Ne sait pas",
+		"Nombre de réponses": 3
+	}]
+},
+{
+	"Question": "Selon vous, dans quels domaines l'Union européenne devrait agir de manière plus énergique et coordonnée ? (vous pouvez cocher trois réponses maximum)",
+	"Nombre de réponses": 1248,
+	"Réponses": [{
+		"Critère": "Dans le soutien à la croissance économique et à l’emploi",
+		"Nombre de réponses": 535
+	},
+	{
+		"Critère": "Dans la gestion des réfugiés et des migrations",
+		"Nombre de réponses": 727
+	},
+	{
+		"Critère": "Dans la lutte contre le changement climatique",
+		"Nombre de réponses": 304
+	},
+	{
+		"Critère": "Dans la lutte contre le terrorisme",
+		"Nombre de réponses": 375
+	},
+	{
+		"Critère": "Dans la conduite de la politique agricole commune",
+		"Nombre de réponses": 153
+	},
+	{
+		"Critère": "Dans la mise en place de règles convergentes en matière sociale",
+		"Nombre de réponses": 627
+	},
+	{
+		"Critère": "Dans le soutien aux entreprises européennes au niveau mondial",
+		"Nombre de réponses": 148
+	},
+	{
+		"Critère": "Dans la stabilisation et la pacification des pays voisins de l’Union européenne, et dans la résolution des conflits internationaux",
+		"Nombre de réponses": 310
+	},
+	{
+		"Critère": "Aucun",
+		"Nombre de réponses": 52
+	},
+	{
+		"Critère": "Autre :",
+		"Nombre de réponses": 169
+	},
+	{
+		"Critère": "Ne sait pas",
+		"Nombre de réponses": 0
+	}]
+},
+{
+	"Question": "Pour rendre son action plus efficace, l'Union européenne devrait (vous pouvez cocher une seule réponse)",
+	"Nombre de réponses": 1245,
+	"Réponses": [{
+		"Critère": "Réduire son domaine d’intervention",
+		"Nombre de réponses": 193
+	},
+	{
+		"Critère": "Augmenter son domaine d’intervention",
+		"Nombre de réponses": 179
+	},
+	{
+		"Critère": "Simplifier et accélérer ses mécanismes de décision",
+		"Nombre de réponses": 432
+	},
+	{
+		"Critère": "Etre plus visible et mieux communiquer",
+		"Nombre de réponses": 218
+	},
+	{
+		"Critère": "Autre",
+		"Nombre de réponses": 215
+	},
+	{
+		"Critère": "Ne sait pas",
+		"Nombre de réponses": 8
+	}]
+},
+{
+	"Question": "Selon vous, pour sortir de la crise actuelle, l'Union européenne devrait-elle transformer ses institutions ? (vous pouvez cocher une seule réponse)",
+	"Nombre de réponses": 1250,
+	"Réponses": [{
+		"Critère": "Oui, en une fédération entre les Etats membres (« Etats-Unis d’Europe »)",
+		"Nombre de réponses": 304
+	},
+	{
+		"Critère": "Oui, en une fédération, mais seulement avec les Etats membres de la zone euro",
+		"Nombre de réponses": 439
+	},
+	{
+		"Critère": "En redonnant des pouvoirs aux Etats",
+		"Nombre de réponses": 246
+	},
+	{
+		"Critère": "Non, il ne faut rien changer",
+		"Nombre de réponses": 26
+	},
+	{
+		"Critère": "Autre :",
+		"Nombre de réponses": 195
+	},
+	{
+		"Critère": "Ne sait pas",
+		"Nombre de réponses": 40
+	}]
+},
+{
+	"Question": "Au-delà des thèmes que nous avons abordés, auriez-vous d'autres propositions pour rapprocher l'Union européenne des citoyens ?",
+	"Nombre de réponses": 1153
+}]
