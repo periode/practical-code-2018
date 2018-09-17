@@ -2,7 +2,7 @@
 Code and resources for Practical Code/Code Pratique - SciencesPo 2018
 
 
-### The course notes are [here](https://periode.github.io).
+### The course notes are [here](https://periode.github.io/practical-code-2018).
 
 ### A list of software+politics project is [here](https://github.com/periode/politics-of-code/wiki/projects).
 
