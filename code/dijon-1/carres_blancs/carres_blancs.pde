@@ -14,15 +14,15 @@ void setup(){
 
 void draw(){
   background(0, 0, 0);
-     for(int i = 0; i < 1000; i = i + 1){ //DEBUT
+     for(int i = 0; i < 1000; i = i + 1){ //DEBUT // --changer un truc ici
      float myRandomNumber = random(0, 10);
      
      if(myRandomNumber < 1){
-       fill(255, 0, 0, 100);
+       fill(255, 0, 0, 100); //changer un truc la
      }else{
        fill(0, 255, 0, 100);
      }
-     rect(random(0, 2000), random(200, 600), mouseY, mouseX); //-----------
+     rect(random(0, 2000), random(200, 600), mouseY, mouseX); //- changer un dernier ici
 
     
   } //FIN
