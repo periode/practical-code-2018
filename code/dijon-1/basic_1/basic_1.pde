@@ -9,14 +9,15 @@ void setup(){ // invoquee 1 fois au debut du programme
  size(800, 800);
  
  // RGB - RED GREEN BLUE - ca va de 0 a 255
- background(255, 255, 255);
+ 
  
 }
 
 void draw(){ // draw invoquee a l'infini jusqu'a la fin du programme
-  fill(200, 200, 240);
+background(255, 255, myHeight );
+  fill(myPosition, 200, 240);
   rect(myPosition, myHeight, 300, 200);
   
-  myPosition = myPosition - 1;
+  myPosition = myPosition + 1;
   myHeight = myHeight + 1;
 }
