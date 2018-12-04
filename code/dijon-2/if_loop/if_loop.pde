@@ -8,6 +8,12 @@ void setup(){
   
   rectMode(CENTER);
   
+  
+  
+}
+
+void draw(){
+  background(0, 0, 0);
   //debut de la boucle
   for(int i = 0; i < 1000; i += 1){
     float myRandomNumber = random(0, 1); //choisir un nombre au hasard
@@ -15,15 +21,10 @@ void setup(){
     if(myRandomNumber < 0.6){ //SI le chiffre est inferieur a 0.6
      fill(0, 0, 0, 2); 
     }else{ //SINON
-      fill(255, 255, 255, 40);
+      fill(255, 255, 255, 20);
     }
     
     //et puis on dessine un rectangle au centre
-    rect(width/2, height/2, random(10, 500), random(10, 500));
+    rect(width/2, height/2, random(10, mouseX), random(10, mouseY));
   }
-  
-}
-
-void draw(){
-  
 }
